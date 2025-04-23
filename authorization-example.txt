@@ -1,0 +1,2 @@
+# Add valid proxy authorization below.
+# proxyuser proxypass
